@@ -1,0 +1,25 @@
+{
+  "name": "@itzmrevil/signage-player",
+  "version": "0.0.1",
+  "description": "Singage Player Jquery Extension ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HariharanUmapathi/signage-player.git"
+  },
+  "keywords": [
+    "jquery-extension",
+    "signage-player",
+    "signage",
+    "slideshow"
+  ],
+  "author": "Hariharan Umapathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HariharanUmapathi/signage-player/issues"
+  },
+  "homepage": "https://github.com/HariharanUmapathi/signage-player#readme"
+}
