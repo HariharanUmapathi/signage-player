@@ -11,6 +11,8 @@
     "url": "git+https://github.com/HariharanUmapathi/signage-player.git"
   },
   "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
     "jquery-extension",
     "signage-player",
     "signage",
